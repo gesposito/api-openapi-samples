@@ -105,6 +105,8 @@ info:
     email: alessandro@teamdigitale.governo.it
     name: Data Analytics Framework
     url: https://dataportal.daf.teamdigitale.it/
+  project: daf
+  summary: API per ricercare e visualizzare gli open data del Data & Analytics Framework in api.daf.teamdigitale.it.
   description: |
     API per ricercare e visualizzare gli open data del Data & Analytics Framework in api.daf.teamdigitale.it.
 
